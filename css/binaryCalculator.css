@@ -1,0 +1,8 @@
+body{background-color: lavenderblush;}
+#res{background-color:lightgray;display:flex;justify-content: start;padding: 0;vertical-align:text-top;text-align:left;border:2px solid;height:100px;font-size:20px;overflow:auto;}
+#btn0,#btn1{background-color:lightgreen;color:brown;}
+#btnClr,#btnEql{background-color:darkgreen;color:white;}
+#btnSum,#btnSub,#btnMul,#btnDiv{background-color:black;color:red;}
+#btns button{width:25%;height:100px;padding:10px;font-size:18px;margin:0px;float:left;}
+#container{box-sizing: border-box;width:70%;margin:0 auto;}
+h1{font-family:Georgia, 'Times New Roman', Times, serif;margin:50px 20px 100px 20px;text-align: center;}
